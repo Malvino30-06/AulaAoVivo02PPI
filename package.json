@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "aulaaovivo02ppi",
+  "version": "1.0.0",
+  "description": "Exemplo de aplicação servidora HTTP capaz de processar dados de um formulário HTML",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malvino30-06/AulaAoVivo02PPI.git"
+  },
+  "keywords": [
+    "POST",
+    "HTML",
+    "method",
+    "HTML"
+  ],
+  "author": "Kauan Malvino",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Malvino30-06/AulaAoVivo02PPI/issues"
+  },
+  "homepage": "https://github.com/Malvino30-06/AulaAoVivo02PPI#readme"
+}
